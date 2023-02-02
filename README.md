@@ -35,9 +35,15 @@
       <img align="center" alt="MSSQL" title="Microsoft SQL Server" height="30" width="40" src="https://community.chocolatey.org/content/packageimages/sql-server-2019.15.0.2000.svg">
     </div>
     <br>
-    <div style="min-height=40px">
+    <div>
       <img align="center" alt="AWS" title="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
       <img align="center" alt="Azure" title="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+    </div>
+    <br>
+    <div>
+      <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+      <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+      <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://www.svgrepo.com/show/354334/serverless.svg">
     </div>
   </div>
 </div>
