@@ -41,5 +41,5 @@
   <a href="https://www.facebook.com/nickson.jeanmerson" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/NicksonJean" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/nicksonjean/nicksonjean/blob/output/github-contribuition-grid-snake.svg)
+  ![Snake animation](https://github.com/nicksonjean/nicksonjean/blob/output/github-contribution-grid-snake.svg)
 </div>
