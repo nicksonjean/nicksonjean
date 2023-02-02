@@ -31,6 +31,7 @@
       <img align="center" alt="SQLite" title="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
       <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <img align="center" alt="Oracle" title="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+      <img align="center" alt="Oracle" title="Oracle" height="30" width="40" src="https://avatars.githubusercontent.com/u/94555368?s=280&v=4">
       <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <img align="center" alt="MSSQL" title="Microsoft SQL Server" height="30" width="40" src="https://community.chocolatey.org/content/packageimages/sql-server-2019.15.0.2000.svg">
     </div>
