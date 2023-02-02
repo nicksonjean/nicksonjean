@@ -30,8 +30,7 @@
       <img align="center" alt="MongoBD" title="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
       <img align="center" alt="SQLite" title="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
       <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <img align="center" alt="Oracle" title="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-      <img align="center" alt="Oracle" title="Oracle" height="30" width="40" src="https://avatars.githubusercontent.com/u/94555368?s=280&v=4">
+      <img align="center" alt="Oracle" title="Oracle" height="30" width="30" src="https://avatars.githubusercontent.com/u/94555368?s=280&v=4">
       <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <img align="center" alt="MSSQL" title="Microsoft SQL Server" height="30" width="40" src="https://community.chocolatey.org/content/packageimages/sql-server-2019.15.0.2000.svg">
     </div>
@@ -43,8 +42,8 @@
     <br>
     <div>
       <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-      <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-      <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://www.svgrepo.com/show/354334/serverless.svg">
+      <img align="center" alt="Kubernetes" title="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+      <img align="center" alt="Serverless" title="Serverless" height="30" width="40" src="https://www.svgrepo.com/show/354334/serverless.svg">
     </div>
   </div>
 </div>
@@ -61,4 +60,5 @@
 ![Snake animation](https://github.com/nicksonjean/nicksonjean/blob/output/github-contribution-grid-snake.svg) 
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+  
 </div>
