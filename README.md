@@ -41,8 +41,8 @@
     </div>
     <br>
     <div>
-      <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-      <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+      <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
       <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://www.svgrepo.com/show/354334/serverless.svg">
     </div>
   </div>
