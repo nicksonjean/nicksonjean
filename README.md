@@ -5,7 +5,7 @@
 ​          
 <div>
   <a href="https://beacons.ai/nicksonjean">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicksonjean&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas+de+Nickson+Jeanmerson&card_width=460" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicksonjean&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas+de+Nickson+Jeanmerson&card_width=450" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksonjean&layout=compact&lang_count=16&theme=dracula&custom_title=Linguagens+mais+usadas&card_width=334" />
   </a>
 </div>
