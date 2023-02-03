@@ -57,7 +57,10 @@
   <a href="https://www.facebook.com/nickson.jeanmerson" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/NicksonJean" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnicksonjean%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnicksonjean%2F&label=VISITANTES&countColor=%23697689" /></a>
+
+<div style="0 -16px 0 -18px">
   
 ![Snake animation](https://github.com/nicksonjean/nicksonjean/blob/output/github-contribution-grid-snake.svg) 
   
+</div>  
 </div>
