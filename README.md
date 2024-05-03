@@ -36,7 +36,7 @@
     </div>
     <br>
     <div>
-      <img align="center" alt="AWS" title="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+      <img align="center" alt="AWS" title="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
       <img align="center" alt="Azure" title="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
     </div>
     <br>
